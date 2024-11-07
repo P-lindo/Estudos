@@ -10,7 +10,7 @@ public class Main {
 		
 		
 		int x;
-		String s1, s2, s3;
+		String s1, s2, s3, s4;
 		
 		
 		x = sc.nextInt();
@@ -18,13 +18,15 @@ public class Main {
 		s1 = sc.nextLine();
 		s2 = sc.nextLine();
 		s3 = sc.nextLine();
+		s4 = sc.nextLine();
+		
 		
 		System.out.println("Dados Digitados:");
 		System.out.println(x);
 		System.out.println(s1);
 		System.out.println(s2);
 		System.out.println(s3);
-		
+		System.out.println(s4);
 		
 		
 		sc.close();
